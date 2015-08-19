@@ -144,9 +144,7 @@ int main()
 
 		break; 
 
-	default: 
-		cout<<"Invalid option"<<endl; 
-		break; 
+	
 
 	} 
 		 
